@@ -1,0 +1,14 @@
+# Entorno virtual
+examen/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos del sistema
+.DS_Store
+*.sqlite3
+
+# Archivos de compilación
+/staticfiles/
+/media/
