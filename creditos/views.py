@@ -1,3 +1,4 @@
 from django.shortcuts import render
 
-# Create your views here.
+def creditos(request):
+    return render(request, "creditos/creditos.html")
