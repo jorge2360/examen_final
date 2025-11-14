@@ -1,1 +1,1 @@
-web: gunicorn examen_final.wsgi
+gunicorn core.wsgi --log-file -
